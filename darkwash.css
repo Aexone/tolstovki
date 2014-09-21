@@ -8,7 +8,7 @@ envato profile: http://www.codecanyon.com/user/eLION
 /****** IMPORTANT! Please review ie.css and compare to this stylesheet before making changes that will effect IE ********/
 
 /******  This imports other stylesheets so you don't have to call them in an html file *****/
-@import url('../../reset.css');
+@import url('reset.css');
 
 body {
 	font-size:13px;
